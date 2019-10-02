@@ -1,0 +1,5 @@
+Teste
+Entendendo o HEAD
+Esta linha foi modificada no ramo master
+Esta linha foi modificada no ramo teste
+Mais uma
